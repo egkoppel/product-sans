@@ -25,3 +25,7 @@
     font-style: italic;
     font-weight: 700;
 }
+
+#title {
+    font-family:product-sans;
+}
