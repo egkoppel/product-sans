@@ -29,3 +29,11 @@
 #title {
     font-family:product-sans;
 }
+
+body {
+    -moz-font-feature-settings: "liga=1";
+    -ms-font-feature-settings: "liga";
+    -webkit-font-feature-settings: "liga";
+    -o-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+}
