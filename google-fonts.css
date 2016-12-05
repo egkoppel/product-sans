@@ -6,8 +6,8 @@
 
 @font-face {
     font-family: product-sans;
-    src: url(product-sans-italic.woff2) format('woff2');
-    src: url(product-sans-italic.ttf) format('truetype');
+    src: url(product-sans-italics.woff2) format('woff2');
+    src: url(product-sans-italics.ttf) format('truetype');
     font-style: italic;
 }
 
