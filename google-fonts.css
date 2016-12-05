@@ -1,7 +1,7 @@
 @font-face {
     font-family: product-sans;
     src: url(http://egkoppel.github.io/product-sans/product-sans-regular.woff2) format('woff2');
-    src: url(http://egkoppel.github.io/product-sans/product-sans-regular.ttf?raw=true) format('truetype');
+    src: url(http://egkoppel.github.io/product-sans/product-sans-regular.ttf) format('truetype');
 }
 
 @font-face {
