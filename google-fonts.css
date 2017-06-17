@@ -26,7 +26,7 @@
     font-weight: 700;
 }
 
-#product-sans {
+.product-sans {
     font-family:product-sans;
     -moz-font-feature-settings: "liga=1";
     -ms-font-feature-settings: "liga";
